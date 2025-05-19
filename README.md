@@ -4,7 +4,9 @@
 
 ###
 
-<h3 align="center">Data Scientist | AI Engineer | Computer Vision Developer</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=450&lines=Data+Scientist+%7C+AI+Engineer+%7C+Computer+Vision+Developer" alt="Animated title" />
+</p>
 
 ###
 
