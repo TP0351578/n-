@@ -1,14 +1,14 @@
 <br clear="both">
+<h1 align="center">
+  <img src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_1f44b.gif" height="30" alt="waving hand" />
+  Hi, I'm Rana Alraqad
+</h1>
 
-<h1 align="center">Hi, I'm Rana Alraqad</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=750&lines=Data+Scientist+%7C+AI+Engineer+%7C+Computer+Vision+Developer" alt="Animated title" />
 </p>
 
-<h3 align="center">Data Scientist | AI Engineer | Computer Vision Developer</h3>
-
----
 
 <p align="left">👩‍💻 <strong>About Me</strong><br><br>
 - 🎓 Computer Science / Artificial Intelligence Graduate  <br>
@@ -18,18 +18,15 @@
 - Committed to continuous learning and applying cutting-edge data science and AI techniques.
 </p>
 
----
 
 <p align="left">📬 <strong>Reach Me Out:</strong><br><br>
 - 📧 Email: ranaraggad00@gmail.com  <br>
 - 💼 LinkedIn: <a href="https://www.linkedin.com/in/ranaraggad">linkedin.com/in/ranaraggad</a>
 </p>
 
----
 
 <p align="left">🛠️ <strong>Skills & Tools</strong></p>
 
----
 
 <h5 align="left">Programming Languages</h5>
 
@@ -41,7 +38,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
 </div>
 
----
 
 <h5 align="left">Frameworks, Platforms & Libraries</h5>
 
@@ -67,7 +63,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
 </div>
 
----
 
 <h5 align="left">Databases</h5>
 
@@ -79,7 +74,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
 </div>
 
----
 
 <h5 align="left">ML / DL</h5>
 
@@ -93,7 +87,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo" />
 </div>
 
----
+
 
 <h5 align="left">GitHub Activity - Pacman Style</h5>
 
