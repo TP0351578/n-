@@ -4,9 +4,8 @@
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" style="filter: brightness(1.5) saturate(0.7) hue-rotate(20deg);" /> Hi, I'm Rana Alraqad
 </h1>
 
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF7F50&center=true&vCenter=true&width=750&lines=Data+Scientist+%7C+AI+Engineer+%7C+Computer+Vision+Developer" alt="Animated title" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=750&lines=Data+Scientist+%7C+AI+Engineer+%7C+Computer+Vision+Developer" alt="Animated title" />
 </p>
 
 
