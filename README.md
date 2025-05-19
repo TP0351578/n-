@@ -6,9 +6,8 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6699ff&center=true&vCenter=true&width=750&lines=Data+Scientist+%7C+AI+Engineer+%7C+Computer+Vision+Developer" alt="Animated title" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF7F50&center=true&vCenter=true&width=750&lines=Data+Scientist+%7C+AI+Engineer+%7C+Computer+Vision+Developer" alt="Animated title" />
 </p>
-
 
 
 ###
