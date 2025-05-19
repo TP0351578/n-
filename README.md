@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=2000&color=FF69B4&center=true&width=600&lines=Unlocking+hidden+stories+within+data;Making+data-driven+decisions+that+matter" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=FF69B4&center=true&vCenter=true&width=450&lines=Discovering+insights+that+spark+innovation" alt="Creative data insights" />
 </p>
+
 
 
 
