@@ -89,12 +89,11 @@
 
 
 
-<h5 align="left">GitHub Activity - Pacman Style</h5>
-
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/r00na/r00na/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/r00na/r00na/output/pacman-contribution-graph.svg">
-    <img alt="Pacman GitHub activity graph" src="https://raw.githubusercontent.com/r00na/r00na/output/pacman-contribution-graph.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TP0351578/TP0351578/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TP0351578/TP0351578/output/pacman-contribution-graph.svg">
+    <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/TP0351578/TP0351578/output/pacman-contribution-graph.svg">
   </picture>
 </p>
+
