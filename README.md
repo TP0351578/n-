@@ -1,8 +1,9 @@
 <br clear="both">
 
 <h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="waving hand" /> Hi, I'm Rana Alraqad
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" style="filter: brightness(1.5) saturate(0.7) hue-rotate(20deg);" /> Hi, I'm Rana Alraqad
 </h1>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6699ff&center=true&vCenter=true&width=750&lines=Data+Scientist+%7C+AI+Engineer+%7C+Computer+Vision+Developer" alt="Animated title" />
