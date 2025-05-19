@@ -1,8 +1,9 @@
-<br clear="both">
+
+
 <h1 align="center">
-  <img src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_1f44b.gif" height="30" alt="waving hand" />
-  Hi, I'm Rana Alraqad
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"/> Hi, I'm Rana Alraqad
 </h1>
+
 
 
 <p align="center">
@@ -20,8 +21,8 @@
 
 
 <p align="left">📬 <strong>Reach Me Out:</strong><br><br>
-- 📧 Email: ranaraggad00@gmail.com  <br>
-- 💼 LinkedIn: <a href="https://www.linkedin.com/in/ranaraggad">linkedin.com/in/ranaraggad</a>
+-  Email: ranaraggad00@gmail.com  <br>
+-  LinkedIn: <a href="https://www.linkedin.com/in/ranaraggad">linkedin.com/in/ranaraggad</a>
 </p>
 
 
@@ -89,11 +90,4 @@
 
 
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TP0351578/TP0351578/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TP0351578/TP0351578/output/pacman-contribution-graph.svg">
-    <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/TP0351578/TP0351578/output/pacman-contribution-graph.svg">
-  </picture>
-</p>
 
